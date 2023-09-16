@@ -1,4 +1,4 @@
 # datavisuli
 This is my first Git Repository.
 <br>
-Author - Arun Paudel
+Author - Arun Barun
